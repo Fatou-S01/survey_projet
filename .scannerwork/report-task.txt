@@ -1,6 +1,6 @@
-projectKey=survey_form
+projectKey=survey_projet
 serverUrl=http://localhost:9000
 serverVersion=7.8.0.26217
-dashboardUrl=http://localhost:9000/dashboard?id=survey_form
-ceTaskId=AYNMYBpm12WABkH-Pa6u
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNMYBpm12WABkH-Pa6u
+dashboardUrl=http://localhost:9000/dashboard?id=survey_projet
+ceTaskId=AYNMbEJ_12WABkH-Pa61
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNMbEJ_12WABkH-Pa61
