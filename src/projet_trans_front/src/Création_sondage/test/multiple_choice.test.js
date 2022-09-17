@@ -13,7 +13,7 @@ it("Afficher Multiple choice si le button est cliqué", () => {
 });
 
 it("Obtenir les valeurs entrées en input si on clique sur ajouter de type multiple choice",() => {
-    render(<Sondage />);
+    render(<Sondage/>);
     const btn_choice = screen.getByTestId("multiple_choice");
     fireEvent.click( btn_choice);
     
